@@ -62,19 +62,6 @@ const Footer = () => {
                 AquaNest — delivering purity, trust, and innovation in every drop. Your reliable source for clean, healthy water solutions.
                 </p>
               </div>
-              <div className="position-relative mt-3">
-                <input
-                  className="form-control rounded-pill w-100 py-3 ps-4 pe-5"
-                  type="text"
-                  placeholder="Enter your email"
-                />
-                <button
-                  type="button"
-                  className="btn btn-primary rounded-pill position-absolute top-0 end-0 py-2 mt-2 me-2"
-                >
-                  SignUp
-                </button>
-              </div>
             </div>
           </div>
           <div className="col-md-6 col-lg-6 col-xl-3">
@@ -83,7 +70,6 @@ const Footer = () => {
               <a href="#" className="text-light footer-link"><FaAngleRight className="me-2" /> Why Choose Us</a>
               <a href="#" className="text-light footer-link"><FaAngleRight className="me-2" /> Free Water Bottles</a>
               <a href="#" className="text-light footer-link"><FaAngleRight className="me-2" /> Water Dispensers</a>
-              <a href="#" className="text-light footer-link"><FaAngleRight className="me-2" /> Bottled Water Coolers</a>
               <a href="#" className="text-light footer-link"><FaAngleRight className="me-2" /> Contact Us</a>
               <a href="#" className="text-light footer-link"><FaAngleRight className="me-2" /> Terms & Conditions</a>
             </div>
@@ -109,7 +95,6 @@ const Footer = () => {
             <div className="footer-item d-flex flex-column">
               <h4 className="text-white mb-4 footer-title">Contact Info</h4>
               <a href="#" className="text-light footer-link"><FaMapMarkerAlt className="me-2" /> 123 Street, New York, USA</a>
-              <a href="mailto:info@example.com" className="text-light footer-link"><FaEnvelope className="me-2" /> info@example.com</a>
               <a href="mailto:info@example.com" className="text-light footer-link"><FaEnvelope className="me-2" /> info@example.com</a>
               <a href="tel:+012 345 67890" className="text-light footer-link"><FaPhone className="me-2" /> +012 345 67890</a>
               <a href="tel:+012 345 67890" className="text-light footer-link mb-3"><FaPrint className="me-2" /> +012 345 67890</a>
