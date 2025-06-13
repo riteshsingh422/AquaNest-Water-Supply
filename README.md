@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# AquaNest- Water Supplier Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Live Link:- https://watersupplier.netlify.app/
 
-## Available Scripts
+## For Vendor LOgin Credential:-
+
+Email:- vendor@gmail.com
+
+Password:- password123
 
 In the project directory, you can run:
 
